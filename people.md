@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Group Members
+title: References
 permalink: /people/
 ---
 
-Include information about current and past group members here. 
+1. Mary Kliewer
+    - Safeway Pharmacist
+    - (970) 484-2843
