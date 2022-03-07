@@ -2,4 +2,4 @@
 layout: post
 title: Welcome!
 ---
-You can change the title above if you want to and then write your content.  
+My name is Maya Shields, and I am a second year at Cal Poly SLO. I am majoring in Chemistry and minoring in Biology. Welcome to my website! 
