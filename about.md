@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi! My name is Maya and I am a second year Chemistry Major at California Polytechnic State University in San Luis Obispo, California. I went into my freshman year expecting to earn a degree in Biomedical Engineering, but after taking General Chemistry II, I fell in love with the subject and decided I was better off in the Chemistry field. I am interested in medicinal chemistry and pharmacy, so I would love to learn more about synthesizing medications and the work that goes into making drugs. I am super excited to start research with Dr. Scott Eagon in Spring, 2022 to gain hands on experience in the field I am interested in. I have also done work on another side of pharmaceuticals as a Pharmacy Technician, where I gained experience working in a pharmacy to distribute medications to patients. 
 
-I am also working towards earing a minor in Biology. I am very excited to learn more about anatomy and physiology, and cannot wait to continue my education at Cal Poly!
+I am also working towards earning a minor in Biology. I am very excited to learn more about anatomy and physiology, and cannot wait to continue my education at Cal Poly!
 
 ### More Information
 
