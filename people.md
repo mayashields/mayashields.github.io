@@ -1,7 +1,7 @@
 ---
 layout: page
 title: References
-permalink: /References/
+permalink: /people/
 ---
 
 1. Mary Kliewer
